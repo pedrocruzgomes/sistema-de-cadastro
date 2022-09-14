@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icones">
+    <file>Ícones/email.png</file>
+    <file>Ícones/menu.png</file>
+    <file>Ícones/pessoas.png</file>
+    <file>Ícones/zap.png</file>
+  </qresource>
+</RCC>
